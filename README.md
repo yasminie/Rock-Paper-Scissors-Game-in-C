@@ -1,1 +1,1 @@
-# Rock-Paper-Scissors-Game-in-C
+# Rock-Paper-Scissors Game in C
